@@ -70,7 +70,7 @@ function App() {
                 >
                   <use href="/icons.svg#github-icon"></use>
                 </svg>
-                GitHub
+                GitHub renaldi 08 berapa
               </a>
             </li>
             <li>
